@@ -1,0 +1,45 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    /* --- Cores --- */
+    --color-vinho-: #713B42;
+    --color-creme-: #F3EBDD;
+    --color-verdeProfundo-: #283C32;
+    --color-dourado-: #B99A62;
+    --color-marromEscuro-: #302720;
+
+    /* --- Fontes --- */
+
+    /* Família */
+    --font-family-primary: "Playfair Display", serif;
+    --font-family-secundary: "Montsetrat", sans-serif;
+
+    /* Size */
+    --font-size-h1: 48px;
+    --font-size-h2: 36px;
+    --font-size-h3: 28px;
+    --font-size-destaques: 24px;
+    --font-size-decorativos: 20px;
+    --font-size-p: 16px;
+    --font-size-button: 14px;
+    --font-size-legendas: 12px;
+
+    /* Weight */
+    --font-weight-h1: 600;
+    --font-weight-h2: 600;
+    --font-weight-h3: 500;
+    --font-weight-destaques: 500;
+    --font-weight-p: 400;
+    --font-weight-button: 600;
+    --font-weight-legendas: 500;
+
+    /* Style */
+    --font-style-decorativos: italic;
+
+}
